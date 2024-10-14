@@ -1,2 +1,8 @@
 fastapi[standard] 
 sqlalchemy
+bcrypt
+passlib
+pyjwt
+python-jose
+aiofiles
+
